@@ -1,3 +1,2 @@
-# References
+This text will cause a conflict in the main branch.
 
-* octocat 1 😈
